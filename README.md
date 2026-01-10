@@ -8,10 +8,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=7598c8&width=435&lines=Hey+there%2C+it's+Josh+Waterhouse;Malaria+immunologist" alt="Malaria immunologist"/>
 </a>
 
-<!--
-    Terminal GIF made here -> https://www.terminalgif.com
--->
-
 
 PhD candidate with their thesis currently under examination! 😓🤞 <br />
 
@@ -56,8 +52,12 @@ Contain: **background** , **code** , and **key outcomes**
 - 👀 **Prof. James G. Beeson** (co-supervisors: Dr. Herbert Opi, Dr. Lee Yeoh)
 - 📘 "Acquisition and maintenance of merozoite antibodies following *P. falciparum* exposure and their role in immunity to malaria"
 
+<!--
+    Terminal GIF made here -> https://www.terminalgif.com
+-->
+
 <div>
-    <img src="./assets/about_terminal.gif" alt="About Me Terminal GIF"/>
+    <img src="./terminal.gif" alt="About Me Terminal GIF"/>
 </div>
 
 <!--
