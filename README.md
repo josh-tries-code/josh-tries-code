@@ -5,14 +5,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7598c8&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=800&color=7598c8&width=435&lines=Hey+there%2C+it's+Josh+Waterhouse;PhD+candidate" alt="Malaria immunologist"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=800&color=7598c8&width=435&lines=Hey+there%2C+it's+Josh+Waterhouse;Malaria%2C+Immunology%2C+Coding" alt="Malaria immunologist"/>
 </a>
 
 Thesis currently under examination! 😓🤞 <br />
 
-📘 "Acquisition and maintenance of merozoite antibodies following *P. falciparum* exposure and their role in immunity to malaria"  <br />
-👀 **Prof. James G. Beeson** (co-supervisors: Dr. Herbert Opi, Dr. Lee Yeoh)  <br />
-🏢 Monash University & Burnet Institute  <br />
+### PhD
+- 📘 "Acquisition and maintenance of merozoite antibodies following *P. falciparum* exposure and their role in immunity to malaria"
+- 👀 **Prof. James G. Beeson** (co-supervisors: Dr. Herbert Opi, Dr. Lee Yeoh)
+- 🏢 Monash University & Burnet Institute
 
 ### Research
 - 🦟 Malaria immunology
