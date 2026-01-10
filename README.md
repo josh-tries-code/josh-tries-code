@@ -10,9 +10,9 @@
 
 Thesis currently under examination! 😓🤞 <br />
 
-- 🏢 Monash University & Burnet Institute
-- 👀 **Prof. James G. Beeson** (co-supervisors: Dr. Herbert Opi, Dr. Lee Yeoh)
-- 📘 "Acquisition and maintenance of merozoite antibodies following *P. falciparum* exposure and their role in immunity to malaria"
+📘 "Acquisition and maintenance of merozoite antibodies following *P. falciparum* exposure and their role in immunity to malaria"  <br />
+👀 **Prof. James G. Beeson** (co-supervisors: Dr. Herbert Opi, Dr. Lee Yeoh)  <br />
+🏢 Monash University & Burnet Institute  <br />
 
 ### Research
 - 🦟 Malaria immunology
