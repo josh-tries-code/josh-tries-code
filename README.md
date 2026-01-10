@@ -54,11 +54,11 @@ Contain: **background** , **code** , and **key outcomes**
 
 <!--
     Terminal GIF made here -> https://www.terminalgif.com
--->
 
 <div>
     <img src="./terminal1.gif" alt="About Me Terminal GIF"/>
 </div>
+-->
 
 <!--
 **josh-tries-code/josh-tries-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
