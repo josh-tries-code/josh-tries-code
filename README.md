@@ -10,6 +10,10 @@
 
 Thesis currently under examination! 😓🤞 <br />
 
+- 🏢 Monash University & Burnet Institute
+- 👀 **Prof. James G. Beeson** (co-supervisors: Dr. Herbert Opi, Dr. Lee Yeoh)
+- 📘 "Acquisition and maintenance of merozoite antibodies following *P. falciparum* exposure and their role in immunity to malaria"
+
 ### Research
 - 🦟 Malaria immunology
 - 🐜 **Ant**ibody targets and functions
@@ -58,13 +62,6 @@ So far, they include:
 |   ---:        |     :---   |         
 | `Description`   | Pf8 is a large repository of *P. falciparum* genomic data  from parasites isolated people over decades and multiple continents  | 
 | `Aim`     | Assess the presence of gene mutations associated with malaria drug resistance, their geographical distritbution and change over time | 
-
-<br />
-
-## About my PhD
-- 🏢 Monash University & Burnet Institute
-- 👀 **Prof. James G. Beeson** (co-supervisors: Dr. Herbert Opi, Dr. Lee Yeoh)
-- 📘 "Acquisition and maintenance of merozoite antibodies following *P. falciparum* exposure and their role in immunity to malaria"
 
 <!--
     Terminal GIF made here -> https://www.terminalgif.com
