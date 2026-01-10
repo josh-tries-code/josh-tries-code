@@ -1,7 +1,6 @@
 ## Hi, I'm Josh 👋
 I'm a PhD candidate with my thesis currently under examination 🤞 <br />
 (also applying for positions!) <br />
-<br />
 
 ### Research
 - 🦟 Malaria immunology
@@ -18,7 +17,6 @@ I'm a PhD candidate with my thesis currently under examination 🤞 <br />
 ### Contact 
 - 📫 Email joshua.waterhouse@student.burnet.edu.au
 - 🔗 LinkedIn https://www.linkedin.com/in/joshuawaterhouse/
-<br />
 
 ## 👇 What are those repos below?
 Small analytical projects performed in my downtime!
@@ -34,8 +32,6 @@ Small analytical projects performed in my downtime!
 The Rmarkdown (.Rmd) files! There's one for each project. 
 
 Contain **background** , **code** , and **key outcomes**
-
-<br />
 
 ## If you're curious about my PhD...
 - 🏢 Monash University & Burnet Institute
