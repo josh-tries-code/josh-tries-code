@@ -2,8 +2,6 @@
 I'm a PhD candidate with my thesis currently under examination 🤞 <br />
 (also applying for positions!) <br />
 <br />
-## A little about me
-
 
 ### Research
 - 🦟 Malaria immunology
