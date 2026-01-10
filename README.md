@@ -57,7 +57,7 @@ Contain: **background** , **code** , and **key outcomes**
 -->
 
 <div>
-    <img src="./terminal.gif1" alt="About Me Terminal GIF"/>
+    <img src="./terminal1.gif" alt="About Me Terminal GIF"/>
 </div>
 
 <!--
