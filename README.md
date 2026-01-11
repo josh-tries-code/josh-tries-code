@@ -37,11 +37,11 @@ Thesis currently under examination! 😓🤞 <br />
 Small side projects I'm working on! <br /> 
 
 
-1. 📊  Immune response to *P. vivax* infection (data from [Hou MM *Nature Communications* 2025](https://www.nature.com/articles/s41467-025-63104-y)).
+1. 📊  Immune response to *P. vivax* infection
 
 |||
 |   ---:        |     :---      |         
-| `Description`   | Malaria-naive adults undergo one or two *P. vivax* infections, with some reinfected with *P. vivax* or *P. falciaparum*    | 
+| `Description`   | Malaria-naive adults undergo one or two *P. vivax* infections, with some reinfected with *P. vivax* or *P. falciaparum* (data from [Hou MM *Nature Communications* 2025](https://www.nature.com/articles/s41467-025-63104-y))   | 
 | `Aim`     | Identify trends in parasitaemia, antibodies, and cytokines across infections    | 
 
 <br />
@@ -59,7 +59,7 @@ Small side projects I'm working on! <br />
 
 |||
 |   ---:        |     :---   |         
-| `Description`   | Pf8 is a large repository of *P. falciparum* genomic data  from parasites isolated people over decades and multiple continents  | 
+| `Description`   | Pf8 is a large repository of *P. falciparum* genomic data  from parasites isolated people over decades and multiple continents ([Pf8 dataset, MalariaGen](https://www.malariagen.net/data_package/open-dataset-plasmodium-falciparum-v80/))  | 
 | `Aim`     | Assess the presence of gene mutations associated with malaria drug resistance, their geographical distritbution and change over time | 
 
 <!--
