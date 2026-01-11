@@ -34,9 +34,7 @@ Thesis currently under examination! 😓🤞 <br />
 <br />
 
 ## 👇 What are those repos below?
-Small analytical projects made in my downtime! A great way to learn and grow. <br />
-
-So far, they include:
+Small side projects I'm working on! <br /> 
 
 
 1. 📊  Immune response to *P. vivax* infection (data from [Hou MM *Nature Communications* 2025](https://www.nature.com/articles/s41467-025-63104-y)).
