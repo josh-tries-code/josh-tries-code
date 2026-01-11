@@ -37,7 +37,7 @@ Thesis currently under examination! 😓🤞 <br />
 Small side projects I'm working on! <br /> 
 
 
-1. 📊  Immune response to *P. vivax* infection
+### 1. 📊  Immune response to *P. vivax* infection
 
 |||
 |   ---:        |     :---      |         
@@ -46,7 +46,7 @@ Small side projects I'm working on! <br />
 
 <br />
 
-2. 🧬 Investigating the *P. falciparum* (3D7) reference genome
+### 2. 🧬 Investigating the *P. falciparum* (3D7) reference genome
   
 |||
 |   ---:        |     :---   |         
@@ -55,7 +55,7 @@ Small side projects I'm working on! <br />
 
 <br />
 
-3. 💊 Drug-resistant *P. falciparum* parasites ([Pf8 dataset, MalariaGen](https://www.malariagen.net/data_package/open-dataset-plasmodium-falciparum-v80/))
+### 3. 💊 Drug-resistant *P. falciparum* parasites
 
 |||
 |   ---:        |     :---   |         
