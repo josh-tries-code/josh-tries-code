@@ -11,21 +11,21 @@
 Thesis currently under examination! 😓🤞 <br />
 
 ### PhD
-- 📘 "Acquisition and maintenance of merozoite antibodies following *P. falciparum* exposure and their role in immunity to malaria"
-- 👀 **Prof. James G. Beeson** (co-supervisors: Dr. Herbert Opi, Dr. Lee Yeoh)
-- 🏢 Monash University & Burnet Institute
+- **Thesis**: "Acquisition and maintenance of merozoite antibodies following *P. falciparum* exposure and their role in immunity to malaria"
+- **Supervisors**: **Prof. James G. Beeson** (co-supervisors: Dr. Herbert Opi, Dr. Lee Yeoh)
+- **Insitutions**: Monash University & Burnet Institute
 
 ### Research
-- 🦟 Malaria immunology
+- Malaria immunology
 - 🐜 **Ant**ibody targets and functions
-- 💉 Vaccine development
-- 👫 Longitudinal cohorts
+- Vaccine development
+- Longitudinal cohorts
   
 ### Skills
-- 💻 Data analysis and modelling in R
-- 🥼 Immunoassays
-- 📤 Automated workflows in bash
-- 🪱 Parasite culturing
+- Data analysis and modelling in R
+- Immunoassays
+- UNIX/LINUX systems & coding in bash
+- Blood-stage _P. falciparum_ parasite culturing
 
 ### Contact 
 - 📫 Email joshua.waterhouse@student.burnet.edu.au
@@ -33,25 +33,25 @@ Thesis currently under examination! 😓🤞 <br />
 
 <br />
 
-## 👇 What are those repos below?
-Small side projects I'm working on! <br /> 
+## What can you find on this page?
+Small side projects I'm working on! Good demonstrations of my coding and analytical skills  <br /> 
 
+### 1. 🧬 Investigating the *P. falciparum* (3D7) reference genome
+  
+|||
+|   ---:        |     :---   |         
+| `Description`   | The *Pf*3D7 reference genome remains a ubiquitous resource   | 
+| `Aim`     | Determine chromosome size, nucleotide composition, and gene density    | 
 
-### 1. 📊  Immune response to *P. vivax* infection
+<br />
+
+### 2. 📊  Immune response to *P. vivax* infection
 
 |||
 |   ---:        |     :---      |         
 | `Description`   | Malaria-naive adults undergo one or two *P. vivax* infections, with some reinfected with *P. vivax* or *P. falciaparum* (data from [Hou MM *Nature Communications* 2025](https://www.nature.com/articles/s41467-025-63104-y))   | 
 | `Aim`     | Identify trends in parasitaemia, antibodies, and cytokines across infections    | 
 
-<br />
-
-### 2. 🧬 Investigating the *P. falciparum* (3D7) reference genome
-  
-|||
-|   ---:        |     :---   |         
-| `Description`   | The *Pf*3D7 reference genome remains a ubiquitous resource   | 
-| `Aim`     | Determine chromosome size, nucleotide composition, and gene density    | 
 
 <br />
 
